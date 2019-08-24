@@ -80,4 +80,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/584419394/c-box.github.io.git
-  branch: master
+  branch: master 
